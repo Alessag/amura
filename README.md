@@ -1,3 +1,4 @@
 # Amura 
 
-https://alessag.gitlab.io/Amura/
+
+[Demo](https://alessag.gitlab.io/Amura/)
